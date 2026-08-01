@@ -1,0 +1,14 @@
+
+body {
+h1 {
+  color: rgb(138, 181, 205);
+  /*ця властивість визначає колір тексту заголовка*/
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: rgb(30, 145, 136);
+}
+}
